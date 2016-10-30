@@ -1,0 +1,22 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 100px 200x;
+  text-align: center;
+}
+
+.navbar-left img {
+	width: 20%;
+    height: auto;
+    padding: 5px;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 0px;
+  width: auto;
+}
